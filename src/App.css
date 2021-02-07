@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  font-family: 'Century Gothic';
 }
 
 .App-logo {
@@ -22,6 +23,12 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+}
+
+.App-container {
+  box-shadow: 0 4px 8px 0 Black;
+  border-radius: 5px;
+  padding: 10px;
 }
 
 .App-link {

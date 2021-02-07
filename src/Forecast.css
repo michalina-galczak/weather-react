@@ -1,0 +1,30 @@
+div.main {
+    margin: 75px 0 0 10px;
+    width: 450px;
+}  
+
+p.title {
+    font-weight: bold;
+    font-size: 16px;
+    height: 0.5px;
+    text-align: right;
+}
+
+hr {
+    width: 450px;
+    margin-top: 25px;
+}
+
+.boxes {
+    margin-top: -8px;
+}
+
+.sub-box {  
+    float: left;  
+    width: 108px;
+    font-size: 14px;
+}  
+
+span.icon {
+    font-size: 35px;
+}

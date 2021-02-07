@@ -1,0 +1,27 @@
+form {
+    width: 100%;
+    text-align: center;
+}
+
+input {
+    height: 35px;
+    width: 80px;
+    cursor: pointer;
+    color: white;
+    font-weight: bold;
+    margin: 0 0 0 2px;
+}
+
+.input-search {
+    height: 34px;
+    background-color: deepskyblue;
+}
+
+.input-current {
+    height: 34px;
+    background-color: darkseagreen;
+}
+
+.search-box {
+    width: 290px;
+}
